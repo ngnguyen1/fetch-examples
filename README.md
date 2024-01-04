@@ -1,1 +1,1 @@
-# Starter template for HTML projects
+# Javascript Fetch API examples
